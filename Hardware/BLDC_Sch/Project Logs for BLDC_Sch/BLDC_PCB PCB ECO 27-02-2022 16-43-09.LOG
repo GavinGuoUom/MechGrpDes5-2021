@@ -1,0 +1,222 @@
+Added Component: Designator=AQF(DIP-16)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-001-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value into parameter field."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22K"; VariantName = "[No Variations]"
+Added Component: Designator=AQR1(AXIAL-0.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.1K"; VariantName = "[No Variations]"
+Added Component: Designator=AQR2(AXIAL-0.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.1K"; VariantName = "[No Variations]"
+Added Component: Designator=AQR3(AXIAL-0.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT+ Pin=BAT-2
+Added Pin To Net: NetName=BAT+ Pin=BAT+T-1
+Added Pin To Net: NetName=BAT+ Pin=C1-1
+Added Pin To Net: NetName=BAT+ Pin=CB1-1
+Added Pin To Net: NetName=BAT+ Pin=DCDC-1
+Added Pin To Net: NetName=BAT+ Pin=HU-2
+Added Pin To Net: NetName=BAT+ Pin=HV-2
+Added Pin To Net: NetName=BAT+ Pin=HW-2
+Added Pin To Net: NetName=BAT+ Pin=RA2-2
+Added Pin To Net: NetName=BAT+ Pin=VAMP-4
+Added Net: Name=BAT+
+Added Pin To Net: NetName=BAT- Pin=BAT-1
+Added Pin To Net: NetName=BAT- Pin=C6-2
+Added Pin To Net: NetName=BAT- Pin=CB1-2
+Added Pin To Net: NetName=BAT- Pin=DCDC-2
+Added Pin To Net: NetName=BAT- Pin=LU-3
+Added Pin To Net: NetName=BAT- Pin=LV-3
+Added Pin To Net: NetName=BAT- Pin=LW-3
+Added Pin To Net: NetName=BAT- Pin=RA1-2
+Added Pin To Net: NetName=BAT- Pin=RA3-1
+Added Pin To Net: NetName=BAT- Pin=VAMP-7
+Added Net: Name=BAT-
+Added Pin To Net: NetName=GND Pin=AQR1-1
+Added Pin To Net: NetName=GND Pin=AQR2-1
+Added Pin To Net: NetName=GND Pin=AQR3-1
+Added Pin To Net: NetName=GND Pin=CA1-1
+Added Pin To Net: NetName=GND Pin=CA2-1
+Added Pin To Net: NetName=GND Pin=CA3-1
+Added Pin To Net: NetName=GND Pin=CV-1
+Added Pin To Net: NetName=GND Pin=IAMP-11
+Added Pin To Net: NetName=GND Pin=INPUT-10
+Added Net: Name=GND
+Added Pin To Net: NetName=IU Pin=AQF-16
+Added Pin To Net: NetName=IU Pin=CA1-2
+Added Pin To Net: NetName=IU Pin=IAMP-1
+Added Pin To Net: NetName=IU Pin=INPUT-9
+Added Pin To Net: NetName=IU Pin=IUT-1
+Added Net: Name=IU
+Added Pin To Net: NetName=IV Pin=AQF-15
+Added Pin To Net: NetName=IV Pin=CA2-2
+Added Pin To Net: NetName=IV Pin=IAMP-7
+Added Pin To Net: NetName=IV Pin=INPUT-8
+Added Pin To Net: NetName=IV Pin=IVT-1
+Added Net: Name=IV
+Added Pin To Net: NetName=IW Pin=AQF-14
+Added Pin To Net: NetName=IW Pin=CA3-2
+Added Pin To Net: NetName=IW Pin=IAMP-8
+Added Pin To Net: NetName=IW Pin=INPUT-7
+Added Pin To Net: NetName=IW Pin=IWT-1
+Added Net: Name=IW
+Added Pin To Net: NetName=NetAQF_1 Pin=AQF-1
+Added Pin To Net: NetName=NetAQF_1 Pin=AQR1-2
+Added Pin To Net: NetName=NetAQF_1 Pin=IAMP-2
+Added Net: Name=NetAQF_1
+Added Pin To Net: NetName=NetAQF_2 Pin=AQF-2
+Added Pin To Net: NetName=NetAQF_2 Pin=AQR2-2
+Added Pin To Net: NetName=NetAQF_2 Pin=IAMP-6
+Added Net: Name=NetAQF_2
+Added Pin To Net: NetName=NetAQF_3 Pin=AQF-3
+Added Pin To Net: NetName=NetAQF_3 Pin=AQR3-2
+Added Pin To Net: NetName=NetAQF_3 Pin=IAMP-9
+Added Net: Name=NetAQF_3
+Added Pin To Net: NetName=NetAQF_11 Pin=AQF-11
+Added Pin To Net: NetName=NetAQF_11 Pin=IAMP-10
+Added Net: Name=NetAQF_11
+Added Pin To Net: NetName=NetAQF_12 Pin=AQF-12
+Added Pin To Net: NetName=NetAQF_12 Pin=IAMP-5
+Added Net: Name=NetAQF_12
+Added Pin To Net: NetName=NetAQF_13 Pin=AQF-13
+Added Pin To Net: NetName=NetAQF_13 Pin=IAMP-3
+Added Net: Name=NetAQF_13
+Added Pin To Net: NetName=NetBATVT_1 Pin=BATVT-1
+Added Pin To Net: NetName=NetBATVT_1 Pin=INPUT-12
+Added Pin To Net: NetName=NetBATVT_1 Pin=RAF-1
+Added Pin To Net: NetName=NetBATVT_1 Pin=VAMP-6
+Added Net: Name=NetBATVT_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C3-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C5-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C6-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetDCDC_3 Pin=DCDC-3
+Added Pin To Net: NetName=NetDCDC_3 Pin=PWRS-1
+Added Net: Name=NetDCDC_3
+Added Pin To Net: NetName=NetHU_1 Pin=HU-1
+Added Pin To Net: NetName=NetHU_1 Pin=HUT-1
+Added Pin To Net: NetName=NetHU_1 Pin=R1-2
+Added Net: Name=NetHU_1
+Added Pin To Net: NetName=NetHV_1 Pin=HV-1
+Added Pin To Net: NetName=NetHV_1 Pin=HVT-1
+Added Pin To Net: NetName=NetHV_1 Pin=R3-2
+Added Net: Name=NetHV_1
+Added Pin To Net: NetName=NetHW_1 Pin=HW-1
+Added Pin To Net: NetName=NetHW_1 Pin=HWT-1
+Added Pin To Net: NetName=NetHW_1 Pin=R5-2
+Added Net: Name=NetHW_1
+Added Pin To Net: NetName=NetINPUT_1 Pin=INPUT-1
+Added Pin To Net: NetName=NetINPUT_1 Pin=R6-1
+Added Net: Name=NetINPUT_1
+Added Pin To Net: NetName=NetINPUT_2 Pin=INPUT-2
+Added Pin To Net: NetName=NetINPUT_2 Pin=R5-1
+Added Net: Name=NetINPUT_2
+Added Pin To Net: NetName=NetINPUT_3 Pin=INPUT-3
+Added Pin To Net: NetName=NetINPUT_3 Pin=R4-1
+Added Net: Name=NetINPUT_3
+Added Pin To Net: NetName=NetINPUT_4 Pin=INPUT-4
+Added Pin To Net: NetName=NetINPUT_4 Pin=R3-1
+Added Net: Name=NetINPUT_4
+Added Pin To Net: NetName=NetINPUT_5 Pin=INPUT-5
+Added Pin To Net: NetName=NetINPUT_5 Pin=R2-1
+Added Net: Name=NetINPUT_5
+Added Pin To Net: NetName=NetINPUT_6 Pin=INPUT-6
+Added Pin To Net: NetName=NetINPUT_6 Pin=R1-1
+Added Net: Name=NetINPUT_6
+Added Pin To Net: NetName=NetLU_1 Pin=LU-1
+Added Pin To Net: NetName=NetLU_1 Pin=LUT-1
+Added Pin To Net: NetName=NetLU_1 Pin=R2-2
+Added Net: Name=NetLU_1
+Added Pin To Net: NetName=NetLV_1 Pin=LV-1
+Added Pin To Net: NetName=NetLV_1 Pin=LVT-1
+Added Pin To Net: NetName=NetLV_1 Pin=R4-2
+Added Net: Name=NetLV_1
+Added Pin To Net: NetName=NetLW_1 Pin=LW-1
+Added Pin To Net: NetName=NetLW_1 Pin=LWT-1
+Added Pin To Net: NetName=NetLW_1 Pin=R6-2
+Added Net: Name=NetLW_1
+Added Pin To Net: NetName=NetRA1_1 Pin=RA1-1
+Added Pin To Net: NetName=NetRA1_1 Pin=RAF-2
+Added Pin To Net: NetName=NetRA1_1 Pin=VAMP-2
+Added Net: Name=NetRA1_1
+Added Pin To Net: NetName=NetRA2_1 Pin=RA2-1
+Added Pin To Net: NetName=NetRA2_1 Pin=RA3-2
+Added Pin To Net: NetName=NetRA2_1 Pin=VAMP-3
+Added Net: Name=NetRA2_1
+Added Pin To Net: NetName=UOI Pin=AQF-4
+Added Pin To Net: NetName=UOI Pin=HU-3
+Added Pin To Net: NetName=UOI Pin=LU-2
+Added Pin To Net: NetName=UOI Pin=RI1-1
+Added Pin To Net: NetName=UOI Pin=UH-1
+Added Net: Name=UOI
+Added Pin To Net: NetName=UO Pin=RI1-2
+Added Pin To Net: NetName=UO Pin=U-1
+Added Pin To Net: NetName=UO Pin=U-1
+Added Pin To Net: NetName=UO Pin=UL-1
+Added Pin To Net: NetName=UO Pin=UVW-1
+Added Net: Name=UO
+Added Pin To Net: NetName=VCC Pin=CV-2
+Added Pin To Net: NetName=VCC Pin=IAMP-4
+Added Pin To Net: NetName=VCC Pin=INPUT-11
+Added Pin To Net: NetName=VCC Pin=PWRS-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VOI Pin=AQF-5
+Added Pin To Net: NetName=VOI Pin=HV-3
+Added Pin To Net: NetName=VOI Pin=LV-2
+Added Pin To Net: NetName=VOI Pin=RI2-1
+Added Pin To Net: NetName=VOI Pin=VH-1
+Added Net: Name=VOI
+Added Pin To Net: NetName=VO Pin=RI2-2
+Added Pin To Net: NetName=VO Pin=UVW-2
+Added Pin To Net: NetName=VO Pin=V-1
+Added Pin To Net: NetName=VO Pin=V-1
+Added Pin To Net: NetName=VO Pin=VL-1
+Added Net: Name=VO
+Added Pin To Net: NetName=WOI Pin=AQF-6
+Added Pin To Net: NetName=WOI Pin=HW-3
+Added Pin To Net: NetName=WOI Pin=LW-2
+Added Pin To Net: NetName=WOI Pin=RI3-1
+Added Pin To Net: NetName=WOI Pin=WH-1
+Added Net: Name=WOI
+Added Pin To Net: NetName=WO Pin=RI3-2
+Added Pin To Net: NetName=WO Pin=UVW-3
+Added Pin To Net: NetName=WO Pin=W-1
+Added Pin To Net: NetName=WO Pin=W-1
+Added Pin To Net: NetName=WO Pin=WL-1
+Added Net: Name=WO
+Added Member To Class: ClassName=BLDC_Sch Member=Component AQF Res Pack2
+Added Member To Class: ClassName=BLDC_Sch Member=Component AQR1 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component AQR2 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component AQR3 Res2

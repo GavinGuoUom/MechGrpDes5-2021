@@ -1,0 +1,170 @@
+Added Pin To Net: NetName=BAT10 Pin=BATJ-12
+Added Pin To Net: NetName=BAT10 Pin=D1-2
+Added Pin To Net: NetName=BAT10 Pin=PMOS-2
+Added Pin To Net: NetName=BAT10 Pin=PMOS-2
+Added Pin To Net: NetName=BAT10 Pin=RB10-1
+Added Net: Name=BAT10
+Added Pin To Net: NetName=BAT+ Pin=CHG-1
+Added Pin To Net: NetName=BAT+ Pin=MPWR-2
+Added Pin To Net: NetName=BAT+ Pin=NMOS-3
+Added Pin To Net: NetName=BAT+ Pin=UCAP-1
+Added Net: Name=BAT+
+Added Pin To Net: NetName=BAT- Pin=CHG-2
+Added Pin To Net: NetName=BAT- Pin=CHG-3
+Added Pin To Net: NetName=BAT- Pin=MPWR-1
+Added Pin To Net: NetName=BAT- Pin=RS-2
+Added Pin To Net: NetName=BAT- Pin=RSRN-1
+Added Net: Name=BAT-
+Added Pin To Net: NetName=BATM Pin=D2-2
+Added Pin To Net: NetName=BATM Pin=NMOS-2
+Added Pin To Net: NetName=BATM Pin=NMOS-2
+Added Pin To Net: NetName=BATM Pin=PMOS-3
+Added Net: Name=BATM
+Added Pin To Net: NetName=BAT Pin=BATIC-47
+Added Pin To Net: NetName=BAT Pin=Cb-2
+Added Pin To Net: NetName=BAT Pin=CP-2
+Added Pin To Net: NetName=BAT Pin=Rb-2
+Added Net: Name=BAT
+Added Pin To Net: NetName=CP1 Pin=BATIC-46
+Added Pin To Net: NetName=CP1 Pin=CP-1
+Added Net: Name=CP1
+Added Pin To Net: NetName=GND Pin=BATIC-17
+Added Pin To Net: NetName=GND Pin=BATJ-1
+Added Pin To Net: NetName=GND Pin=BATJ-2
+Added Pin To Net: NetName=GND Pin=Cb-1
+Added Pin To Net: NetName=GND Pin=CB0-1
+Added Pin To Net: NetName=GND Pin=CB1-1
+Added Pin To Net: NetName=GND Pin=Cegin-1
+Added Pin To Net: NetName=GND Pin=Creg-2
+Added Pin To Net: NetName=GND Pin=I2CBUS-1
+Added Pin To Net: NetName=GND Pin=RB0-1
+Added Pin To Net: NetName=GND Pin=RS-1
+Added Pin To Net: NetName=GND Pin=RSRP-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBATIC_2 Pin=BATIC-2
+Added Pin To Net: NetName=NetBATIC_2 Pin=CB9-2
+Added Pin To Net: NetName=NetBATIC_2 Pin=CB10-1
+Added Pin To Net: NetName=NetBATIC_2 Pin=RB9-2
+Added Net: Name=NetBATIC_2
+Added Pin To Net: NetName=NetBATIC_4 Pin=BATIC-4
+Added Pin To Net: NetName=NetBATIC_4 Pin=CB8-2
+Added Pin To Net: NetName=NetBATIC_4 Pin=CB9-1
+Added Pin To Net: NetName=NetBATIC_4 Pin=RB8-2
+Added Net: Name=NetBATIC_4
+Added Pin To Net: NetName=NetBATIC_6 Pin=BATIC-6
+Added Pin To Net: NetName=NetBATIC_6 Pin=CB7-2
+Added Pin To Net: NetName=NetBATIC_6 Pin=CB8-1
+Added Pin To Net: NetName=NetBATIC_6 Pin=RB7-2
+Added Net: Name=NetBATIC_6
+Added Pin To Net: NetName=NetBATIC_8 Pin=BATIC-8
+Added Pin To Net: NetName=NetBATIC_8 Pin=CB6-2
+Added Pin To Net: NetName=NetBATIC_8 Pin=CB7-1
+Added Pin To Net: NetName=NetBATIC_8 Pin=RB6-2
+Added Net: Name=NetBATIC_8
+Added Pin To Net: NetName=NetBATIC_10 Pin=BATIC-10
+Added Pin To Net: NetName=NetBATIC_10 Pin=CB5-2
+Added Pin To Net: NetName=NetBATIC_10 Pin=CB6-1
+Added Pin To Net: NetName=NetBATIC_10 Pin=RB5-2
+Added Net: Name=NetBATIC_10
+Added Pin To Net: NetName=NetBATIC_12 Pin=BATIC-12
+Added Pin To Net: NetName=NetBATIC_12 Pin=CB4-2
+Added Pin To Net: NetName=NetBATIC_12 Pin=CB5-1
+Added Pin To Net: NetName=NetBATIC_12 Pin=RB4-2
+Added Net: Name=NetBATIC_12
+Added Pin To Net: NetName=NetBATIC_13 Pin=BATIC-13
+Added Pin To Net: NetName=NetBATIC_13 Pin=CB3-2
+Added Pin To Net: NetName=NetBATIC_13 Pin=CB4-1
+Added Pin To Net: NetName=NetBATIC_13 Pin=RB3-2
+Added Net: Name=NetBATIC_13
+Added Pin To Net: NetName=NetBATIC_14 Pin=BATIC-14
+Added Pin To Net: NetName=NetBATIC_14 Pin=CB2-2
+Added Pin To Net: NetName=NetBATIC_14 Pin=CB3-1
+Added Pin To Net: NetName=NetBATIC_14 Pin=RB2-2
+Added Net: Name=NetBATIC_14
+Added Pin To Net: NetName=NetBATIC_15 Pin=BATIC-15
+Added Pin To Net: NetName=NetBATIC_15 Pin=CB1-2
+Added Pin To Net: NetName=NetBATIC_15 Pin=CB2-1
+Added Pin To Net: NetName=NetBATIC_15 Pin=RB1-2
+Added Net: Name=NetBATIC_15
+Added Pin To Net: NetName=NetBATIC_16 Pin=BATIC-16
+Added Pin To Net: NetName=NetBATIC_16 Pin=CB0-2
+Added Pin To Net: NetName=NetBATIC_16 Pin=RB0-2
+Added Net: Name=NetBATIC_16
+Added Pin To Net: NetName=NetBATIC_18 Pin=BATIC-18
+Added Pin To Net: NetName=NetBATIC_18 Pin=CS-1
+Added Pin To Net: NetName=NetBATIC_18 Pin=RSRP-2
+Added Net: Name=NetBATIC_18
+Added Pin To Net: NetName=NetBATIC_20 Pin=BATIC-20
+Added Pin To Net: NetName=NetBATIC_20 Pin=CS-2
+Added Pin To Net: NetName=NetBATIC_20 Pin=RSRN-2
+Added Net: Name=NetBATIC_20
+Added Pin To Net: NetName=NetBATIC_31 Pin=BATIC-31
+Added Pin To Net: NetName=NetBATIC_31 Pin=UCAP-4
+Added Net: Name=NetBATIC_31
+Added Pin To Net: NetName=NetBATIC_36 Pin=BATIC-36
+Added Pin To Net: NetName=NetBATIC_36 Pin=Cegin-2
+Added Pin To Net: NetName=NetBATIC_36 Pin=TR-3
+Added Net: Name=NetBATIC_36
+Added Pin To Net: NetName=NetBATIC_37 Pin=BATIC-37
+Added Pin To Net: NetName=NetBATIC_37 Pin=TR-2
+Added Pin To Net: NetName=NetBATIC_37 Pin=TR-2
+Added Net: Name=NetBATIC_37
+Added Pin To Net: NetName=NetBATIC_43 Pin=BATIC-43
+Added Pin To Net: NetName=NetBATIC_43 Pin=NMOS-1
+Added Net: Name=NetBATIC_43
+Added Pin To Net: NetName=NetBATIC_45 Pin=BATIC-45
+Added Pin To Net: NetName=NetBATIC_45 Pin=PMOS-1
+Added Net: Name=NetBATIC_45
+Added Pin To Net: NetName=NetBATIC_48 Pin=BATIC-48
+Added Pin To Net: NetName=NetBATIC_48 Pin=CB10-2
+Added Pin To Net: NetName=NetBATIC_48 Pin=RB10-2
+Added Net: Name=NetBATIC_48
+Added Pin To Net: NetName=NetBATJ_3 Pin=BATJ-3
+Added Pin To Net: NetName=NetBATJ_3 Pin=RB1-1
+Added Net: Name=NetBATJ_3
+Added Pin To Net: NetName=NetBATJ_4 Pin=BATJ-4
+Added Pin To Net: NetName=NetBATJ_4 Pin=RB2-1
+Added Net: Name=NetBATJ_4
+Added Pin To Net: NetName=NetBATJ_5 Pin=BATJ-5
+Added Pin To Net: NetName=NetBATJ_5 Pin=RB3-1
+Added Net: Name=NetBATJ_5
+Added Pin To Net: NetName=NetBATJ_6 Pin=BATJ-6
+Added Pin To Net: NetName=NetBATJ_6 Pin=RB4-1
+Added Net: Name=NetBATJ_6
+Added Pin To Net: NetName=NetBATJ_7 Pin=BATJ-7
+Added Pin To Net: NetName=NetBATJ_7 Pin=RB5-1
+Added Net: Name=NetBATJ_7
+Added Pin To Net: NetName=NetBATJ_8 Pin=BATJ-8
+Added Pin To Net: NetName=NetBATJ_8 Pin=RB6-1
+Added Net: Name=NetBATJ_8
+Added Pin To Net: NetName=NetBATJ_9 Pin=BATJ-9
+Added Pin To Net: NetName=NetBATJ_9 Pin=RB7-1
+Added Net: Name=NetBATJ_9
+Added Pin To Net: NetName=NetBATJ_10 Pin=BATJ-10
+Added Pin To Net: NetName=NetBATJ_10 Pin=RB8-1
+Added Net: Name=NetBATJ_10
+Added Pin To Net: NetName=NetBATJ_11 Pin=BATJ-11
+Added Pin To Net: NetName=NetBATJ_11 Pin=RB9-1
+Added Net: Name=NetBATJ_11
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Rb-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=TR-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=PCHG Pin=BATIC-40
+Added Pin To Net: NetName=PCHG Pin=UCAP-2
+Added Net: Name=PCHG
+Added Pin To Net: NetName=PDSG Pin=BATIC-39
+Added Pin To Net: NetName=PDSG Pin=UCAP-3
+Added Net: Name=PDSG
+Added Pin To Net: NetName=SCL Pin=BATIC-26
+Added Pin To Net: NetName=SCL Pin=I2CBUS-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=BATIC-27
+Added Pin To Net: NetName=SDA Pin=I2CBUS-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=BATIC-35
+Added Pin To Net: NetName=VCC Pin=Creg-1
+Added Pin To Net: NetName=VCC Pin=I2CBUS-4
+Added Net: Name=VCC
