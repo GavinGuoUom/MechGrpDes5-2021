@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=UH Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=PWMH Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=VH Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=PWMH Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=WH Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=PWMH Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=UL Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=PWML Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=VL Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=PWML Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=WL Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=PWML Pin=R12-2
+Added Component: Designator=RA(DIP-16)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-001-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value into parameter field."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RCK(AXIAL-0.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=WL Pin=RA-1
+Added Pin To Net: NetName=WH Pin=RA-2
+Added Pin To Net: NetName=VL Pin=RA-3
+Added Pin To Net: NetName=VH Pin=RA-4
+Added Pin To Net: NetName=UL Pin=RA-5
+Added Pin To Net: NetName=UH Pin=RA-6
+Added Pin To Net: NetName=PWML Pin=RA-7
+Added Pin To Net: NetName=PWMH Pin=RA-8
+Added Pin To Net: NetName=GND Pin=RA-9
+Added Pin To Net: NetName=GND Pin=RA-10
+Added Pin To Net: NetName=GND Pin=RA-11
+Added Pin To Net: NetName=GND Pin=RA-12
+Added Pin To Net: NetName=GND Pin=RA-13
+Added Pin To Net: NetName=GND Pin=RA-14
+Added Pin To Net: NetName=GND Pin=RA-15
+Added Pin To Net: NetName=GND Pin=RA-16
+Added Pin To Net: NetName=GND Pin=RCK-1
+Added Pin To Net: NetName=CK Pin=RCK-2

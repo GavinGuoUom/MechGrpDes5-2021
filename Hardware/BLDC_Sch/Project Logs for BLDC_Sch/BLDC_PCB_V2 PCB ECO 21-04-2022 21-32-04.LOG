@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=KC-1
+Removed Pin From Net: NetName=BAT- Pin=KC-4
+Removed Pin From Net: NetName=CL1 Pin=KC-5
+Removed Pin From Net: NetName=GND Pin=KC-7
+Removed Pin From Net: NetName=NetKC_8 Pin=KC-8
+Added Pin To Net: NetName=BAT- Pin=KC-3
+Added Pin To Net: NetName=CL1 Pin=KC-4
+Added Pin To Net: NetName=GND Pin=KC-5
+Added Pin To Net: NetName=NetKC_8 Pin=KC-7
+Added Pin To Net: NetName=NetC1_1 Pin=KC-8
