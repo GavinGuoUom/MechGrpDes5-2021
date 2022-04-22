@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=KC-1
+Removed Pin From Net: NetName=BAT+ Pin=KC-2
+Removed Pin From Net: NetName=NetC1_1 Pin=KC-3
+Removed Pin From Net: NetName=BAT- Pin=KC-6
+Removed Pin From Net: NetName=CL1 Pin=KC-7
+Removed Pin From Net: NetName=NetKC_8 Pin=KC-8
+Change Component Footprint: Designator=KC Old Footprint=JQX-14FC-2C_BK New Footprint=RT424012613932433
+Added Pin To Net: NetName=NetC1_1 Pin=KC-11
+Added Pin To Net: NetName=BAT+ Pin=KC-12
+Added Pin To Net: NetName=BAT- Pin=KC-21
+Added Pin To Net: NetName=CL1 Pin=KC-22
+Added Pin To Net: NetName=GND Pin=KC-A1
+Added Pin To Net: NetName=NetKC_8 Pin=KC-A2

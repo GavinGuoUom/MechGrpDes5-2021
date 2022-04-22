@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BAT+ Pin=KC-1
+Removed Pin From Net: NetName=BAT- Pin=KC-3
+Removed Pin From Net: NetName=GND Pin=KC-4
+Removed Pin From Net: NetName=CL1 Pin=KC-6
+Removed Pin From Net: NetName=VIN Pin=PWRS-2
+Added Pin To Net: NetName=VIN Pin=DCDC-3
+Added Pin To Net: NetName=BAT- Pin=KC-2
+Added Pin To Net: NetName=BAT+ Pin=KC-3
+Added Pin To Net: NetName=CL1 Pin=KC-5
+Added Pin To Net: NetName=GND Pin=KC-6
+Added Pin To Net: NetName=VIN Pin=PWRS-1
+Added Pin To Net: NetName=VCC Pin=PWRS-2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT+ Pin=VAMP-4
+Removed Pin From Net: NetName=BAT- Pin=VAMP-7
+Added Pin To Net: NetName=BAT- Pin=VAMP-4
+Added Pin To Net: NetName=BAT+ Pin=VAMP-7

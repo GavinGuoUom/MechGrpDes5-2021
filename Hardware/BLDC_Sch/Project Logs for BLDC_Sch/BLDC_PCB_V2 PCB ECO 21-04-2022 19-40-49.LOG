@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=PWRS-2
+Added Pin To Net: NetName=VIN Pin=INPUT-7
+Added Pin To Net: NetName=VIN Pin=PWRS-2
+Added Net: Name=VIN
