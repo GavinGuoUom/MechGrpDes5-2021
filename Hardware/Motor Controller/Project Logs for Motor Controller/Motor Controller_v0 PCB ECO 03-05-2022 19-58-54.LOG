@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BK_SW Pin=BK-2
+Removed Pin From Net: NetName=DRIVE_SW Pin=DRV-4
+Added Pin To Net: NetName=BK_SW Pin=BK-1
+Added Pin To Net: NetName=VCC Pin=BK-2
+Added Pin To Net: NetName=DRIVE_SW Pin=DRV-2
+Added Pin To Net: NetName=VCC Pin=DRV-4
+Added Pin To Net: NetName=BK_SW Pin=RBK-2
+Added Pin To Net: NetName=DRIVE_SW Pin=RDRV-2

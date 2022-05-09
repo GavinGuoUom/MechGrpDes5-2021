@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=BAT- Pin=UL-1
+Removed Pin From Net: NetName=BAT- Pin=VL-1
+Removed Pin From Net: NetName=BAT- Pin=WL-1
+Added Member To Class: ClassName=BLDC_Sch Member=Component BAT+T Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component BATVT Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component C0 Cap Pol1
+Added Member To Class: ClassName=BLDC_Sch Member=Component CB1 Cap
+Added Member To Class: ClassName=BLDC_Sch Member=Component CCK Cap
+Added Member To Class: ClassName=BLDC_Sch Member=Component CS INA181A4QDBVRQ1
+Added Member To Class: ClassName=BLDC_Sch Member=Component HUT Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component HVT Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component HWT Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component LUT Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component LVT Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component LWT Test
+Added Member To Class: ClassName=BLDC_Sch Member=Component PWRS Header 2
+Added Member To Class: ClassName=BLDC_Sch Member=Component Q NPN
+Added Member To Class: ClassName=BLDC_Sch Member=Component R1 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component R2 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component R3 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component R4 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component R5 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component R6 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component RA1 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component RA2 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component RA3 Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component RAF Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component RCK Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component REF Res2
+Added Member To Class: ClassName=BLDC_Sch Member=Component TL431 TL431ACLPR
+Added Member To Class: ClassName=BLDC_Sch Member=Component U 2376595-2
+Added Member To Class: ClassName=BLDC_Sch Member=Component VAMP OPA445AP
+Added Member To Class: ClassName=BLDC_Sch Member=Component V 2376595-2
+Added Member To Class: ClassName=BLDC_Sch Member=Component W 2376595-2

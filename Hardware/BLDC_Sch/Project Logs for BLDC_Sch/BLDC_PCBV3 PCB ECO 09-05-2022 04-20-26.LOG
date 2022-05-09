@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=CL1 Pin=BAT-2
+Removed Pin From Net: NetName=CL1 Pin=CB1-1
+Removed Pin From Net: NetName=CL1 Pin=CS-3
+Removed Pin From Net: NetName=CL1 Pin=DCDC-1
+Removed Pin From Net: NetName=CL1 Pin=KC-3
+Removed Pin From Net: NetName=CL1 Pin=RI-1
+Removed Pin From Net: NetName=CL1 Pin=VAMP-7
+Added Pin To Net: NetName=BAT+ Pin=BAT-2
+Added Pin To Net: NetName=BAT+ Pin=CB1-1
+Added Pin To Net: NetName=BAT+ Pin=CS-3
+Added Pin To Net: NetName=BAT+ Pin=DCDC-1
+Added Pin To Net: NetName=BAT+ Pin=KC-3
+Added Pin To Net: NetName=BAT+ Pin=RI-1
+Added Pin To Net: NetName=BAT+ Pin=VAMP-7
+Added Net: Name=BAT+

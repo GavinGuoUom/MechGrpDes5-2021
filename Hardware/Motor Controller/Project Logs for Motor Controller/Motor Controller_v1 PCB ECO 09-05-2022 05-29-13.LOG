@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=BK_SW Pin=BK-2
+Removed Pin From Net: NetName=DRIVE_SW Pin=DRV-4
+Added Component: Designator=CBK(RB7.6-15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=CDRV(RB7.6-15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BK_SW Pin=BK-1
+Added Pin To Net: NetName=VCC Pin=BK-2
+Added Pin To Net: NetName=BK_SW Pin=CBK-1
+Added Pin To Net: NetName=GND Pin=CBK-2
+Added Pin To Net: NetName=DRIVE_SW Pin=CDRV-1
+Added Pin To Net: NetName=GND Pin=CDRV-2
+Added Pin To Net: NetName=DRIVE_SW Pin=DRV-2
+Added Pin To Net: NetName=VCC Pin=DRV-4
+Added Pin To Net: NetName=BK_SW Pin=RBK-2
+Added Pin To Net: NetName=DRIVE_SW Pin=RDRV-2
+Added Member To Class: ClassName=MC_Sch_1 Member=Component CBK Cap Pol1
+Added Member To Class: ClassName=MC_Sch_1 Member=Component CDRV Cap Pol1
